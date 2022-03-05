@@ -1,0 +1,24 @@
+.tituloNombre{
+    font-size: 7px;
+    font-weight: 700;
+    margin: 10px;
+}
+
+.descripcion {
+    font-size: 7px;
+    margin: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+.navbarTitulo {
+    color:white;
+    justify-content: start;
+}
+
+.principal {
+    text-align: center;
+}
+.imgHero {
+    width: 300px;
+    height: auto;
+}
